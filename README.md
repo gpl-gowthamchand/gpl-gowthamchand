@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-animator/main/assets/banner.gif" width="100%">
 </div>
 
-<h3 align=center>💫 Web & App Developer | Merging Creativity with Functionality</h3>
+<h3 align=center> Web & App Developer | Merging Creativity with Functionality</h3>
 <div align = center>
 🔭 I’m currently working on: **Android Development & Machine Learning Projects.**<br>
 👯 I’m looking to collaborate on: **Kotlin, ML, and Web Development projects.**<br>
