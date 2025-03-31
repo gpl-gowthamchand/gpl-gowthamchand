@@ -16,7 +16,7 @@
   <a href="https://instagram.com/_.gowthammmmm"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></a>
   <a href="https://linkedin.com/in/gplgowthamchand"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
   <a href="mailto:gpl.gowthamchand@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a>
-  <a href="https://discordapp.com/users/_.gowthammm"><img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white"></a>
+  <a href="https://discordapp.com/users/_.gowthammm"><img src="https://img.shields.io/badge/Discord-purple?logo=discord&logoColor=white"></a>
 
 </p>
 
