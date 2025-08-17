@@ -39,10 +39,11 @@ I love combining clean code with modern design to deliver functional and beautif
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/gplgowthamchand"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white""></a> &nbsp;
+  <a href="https://linkedin.com/in/gplgowthamchand"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"></a> &nbsp;
   <a href="mailto:gpl.gowthamchand@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"></a> &nbsp;
   <a href="https://instagram.com/_.gowthammmmm"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white"></a> &nbsp;
   <a href="https://discordapp.com/users/_.gowthammm"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white"></a> &nbsp;
+  <a href="https://www.reddit.com/user/gowtham512/"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=flat&logo=reddit&logoColor=white"></a> &nbsp;
 </p>
 
 ---
@@ -52,6 +53,7 @@ I love combining clean code with modern design to deliver functional and beautif
 <p align="center">
   <!-- Languages -->
   <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54"/>
   <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -60,6 +62,7 @@ I love combining clean code with modern design to deliver functional and beautif
   <!-- Tools -->
   <img src="https://img.shields.io/badge/Jetpack%20Compose-%23007ACC.svg?style=for-the-badge&logo=jetpack-compose&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
