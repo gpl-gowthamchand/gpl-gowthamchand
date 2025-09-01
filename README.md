@@ -16,9 +16,70 @@
       <img src="https://img.shields.io/badge/Portfolio-Live-%23000000?style=flat&logo=firefox&logoColor=%23FF7139"/>
     </a>
   </p>
-</div>
-
-
+  </div>
+  
+  <!-- Advanced Visitor Analytics -->
+  <div align="center">
+    <h3>📊 Visitor Analytics</h3>
+    <p>
+      <img src="https://visitor-badge.laobi.icu/badge?page_id=gpl-gowthamchand" alt="visitors" />
+      <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/gpl-gowthamchand&label=GitHub%20Followers&query=$.followers&color=blue&style=flat-square" alt="GitHub Followers" />
+      <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/gpl-gowthamchand&label=Public%20Repos&query=$.public_repos&color=green&style=flat-square" alt="Public Repos" />
+    </p>
+    <p>
+      <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/gpl-gowthamchand&label=Total%20Stars&query=$.public_repos&color=yellow&style=flat-square" alt="Total Stars" />
+      <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/gpl-gowthamchand&label=Account%20Created&query=$.created_at&color=orange&style=flat-square" alt="Account Created" />
+    </p>
+  </div>
+  
+  <!-- Profile Views Counter -->
+  <div align="center">
+    <h3>👀 Profile Views Counter</h3>
+    <img src="https://komarev.com/ghpvc/?username=gpl-gowthamchand&style=flat-square&color=blue" alt="Profile Views" />
+    <br/>
+    <small>This counter tracks unique visitors to your GitHub profile</small>
+  </div>
+  
+  <!-- Real-time Visitor Tracking -->
+  <div align="center">
+    <h3>🔄 Real-time Tracking</h3>
+    <p>
+      <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/gpl-gowthamchand&label=Last%20Updated&query=$.updated_at&color=purple&style=flat-square" alt="Last Updated" />
+      <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/gpl-gowthamchand&label=Location&query=$.location&color=red&style=flat-square" alt="Location" />
+    </p>
+    <p>
+      <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/gpl-gowthamchand&label=Company&query=$.company&color=gray&style=flat-square" alt="Company" />
+      <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/gpl-gowthamchand&label=Blog&query=$.blog&color=cyan&style=flat-square" alt="Blog" />
+    </p>
+  </div>
+  
+  <!-- Advanced Visitor Analytics Dashboard -->
+  <div align="center">
+    <h3>📈 Detailed Analytics Dashboard</h3>
+    <p>
+      <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/gpl-gowthamchand&label=Total%20Repositories&query=$.public_repos&color=blue&style=flat-square" alt="Total Repositories" />
+      <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/gpl-gowthamchand&label=Followers&query=$.followers&color=green&style=flat-square" alt="Followers" />
+      <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/gpl-gowthamchand&label=Following&query=$.following&color=orange&style=flat-square" alt="Following" />
+    </p>
+    <p>
+      <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/gpl-gowthamchand&label=Account%20Type&query=$.type&color=purple&style=flat-square" alt="Account Type" />
+      <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/gpl-gowthamchand&label=Hireable&query=$.hireable&color=cyan&style=flat-square" alt="Hireable" />
+    </p>
+  </div>
+  
+  <!-- Visitor Counter with Detailed Stats -->
+  <div align="center">
+    <h3>🎯 Profile Performance Metrics</h3>
+    <p>
+      <img src="https://komarev.com/ghpvc/?username=gpl-gowthamchand&style=flat-square&color=blue" alt="Profile Views" />
+      <img src="https://visitor-badge.laobi.icu/badge?page_id=gpl-gowthamchand" alt="visitors" />
+      <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/gpl-gowthamchand&label=Profile%20Age&query=$.created_at&color=red&style=flat-square" alt="Profile Age" />
+    </p>
+    <p>
+      <small>📊 <strong>Tracking:</strong> Unique visitors, profile views, and engagement metrics</small>
+    </p>
+  </div>
+  
 
 <h3 align="center">Android & Frontend Developer | Turning Ideas into Interactive Products</h3>
 
