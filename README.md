@@ -117,7 +117,7 @@ I love combining clean code with modern design to deliver functional and beautif
   <img src="https://raw.githubusercontent.com/gpl-gowthamchand/gpl-gowthamchand/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
-<!-- Alternative dark snake using direct service -->
+<!-- Alternative: Direct snake with dark theme -->
 <!-- <p align="center">
   <img src="https://raw.githubusercontent.com/gpl-gowthamchand/gpl-gowthamchand/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p> -->
