@@ -15,12 +15,15 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
 
-      - name: Generate Snake Animation
+      - name: Generate Snake Animation (Dark Theme)
         uses: Platane/snk@v3
         with:
           github_user_name: gpl-gowthamchand
+          svg_fill_color: "#0d1117"
+          svg_rect_fill_color: "#161b22"
+          svg_text_color: "#f0f6fc"
           outputs: |
-            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg
 
       - name: Push to Output Branch
         uses: crazy-max/ghaction-github-pages@v3
