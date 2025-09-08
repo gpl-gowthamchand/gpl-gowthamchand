@@ -75,9 +75,19 @@ I love combining clean code with modern design to deliver functional and beautif
 
 ### 📊 GitHub Statistics
 <img src="https://github-readme-stats.vercel.app/api?username=gpl-gowthamchand&theme=tokyonight&hide_border=true&show_icons=true&count_private=true" />
-<br/>
+
+</td>
+<td width="50%">
+
+### 🔥 GitHub Streak
 <img src="https://github-readme-streak-stats.herokuapp.com?user=gpl-gowthamchand&theme=tokyonight&hide_border=true" />
-<br/>
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 💻 Most Used Languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gpl-gowthamchand&layout=compact&theme=tokyonight&hide_border=true" />
 
 </td>
