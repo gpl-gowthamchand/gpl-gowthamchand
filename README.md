@@ -113,8 +113,14 @@ I love combining clean code with modern design to deliver functional and beautif
 
 ## 🐍 Contribution Snake
 
-<p align="center">
+<!-- Current snake (light mode issue) -->
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/gpl-gowthamchand/gpl-gowthamchand/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p> -->
+
+<!-- Alternative: Simple contribution graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gpl-gowthamchand&theme=github-compact&hide_border=true&bg_color=0d1117&color=f0f6fc&line=58a6ff&point=f0f6fc" alt="Contribution Graph" />
 </p>
 
 <!-- Alternative: Direct snake with dark theme -->
