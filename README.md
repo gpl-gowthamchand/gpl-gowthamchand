@@ -67,25 +67,28 @@ I love combining clean code with modern design to deliver functional and beautif
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats & 🏆 Trophies
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gpl-gowthamchand&theme=tokyonight&hide_border=true&show_icons=true&count_private=true" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=gpl-gowthamchand&theme=tokyonight&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gpl-gowthamchand&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<table>
+<tr>
+<td width="50%">
 
----
-
-## 🏆 GitHub Trophies
-
+### 📊 GitHub Statistics
+<img src="https://github-readme-stats.vercel.app/api?username=gpl-gowthamchand&theme=tokyonight&hide_border=true&show_icons=true&count_private=true" />
 <br/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=gpl-gowthamchand&theme=tokyonight&hide_border=true" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gpl-gowthamchand&layout=compact&theme=tokyonight&hide_border=true" />
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gpl-gowthamchand&theme=onedark&no-frame=true&no-bg=true&title=Stars,Followers,Repositories,Commits,PullRequest,Issues&margin-w=10&row=2&column=3" />
-</p>
+</td>
+<td width="50%">
+
+### 🏆 GitHub Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=gpl-gowthamchand&theme=onedark&no-frame=true&no-bg=true&title=Stars,Followers,Repositories,Commits,PullRequest,Issues&margin-w=10&row=2&column=3" />
+
+</td>
+</tr>
+</table>
 
 <br/>
 
