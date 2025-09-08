@@ -2,10 +2,10 @@
   <img src="assets/images/myName.png" alt="GOWTHAM" style="max-width: 100%; height: auto; margin-bottom: 20px;" />
   
   <p style="margin-top: 10px;">
-    <img src="https://img.shields.io/badge/Android%20Dev-%2376FF03?style=flat&logo=android&logoColor=black"/>
-    <img src="https://img.shields.io/badge/Frontend%20Dev-%2361DAFB?style=flat&logo=react&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Android%20Dev-%2376FF03?style=for-the-badge&logo=android&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Frontend%20Dev-%2361DAFB?style=for-the-badge&logo=react&logoColor=black"/>
     <a href="https://gowthamchand.vercel.app/" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-Live-%23000000?style=flat&logo=firefox&logoColor=%23FF7139"/>
+      <img src="https://img.shields.io/badge/Portfolio-Live-%23000000?style=for-the-badge&logo=firefox&logoColor=%23FF7139"/>
     </a>
   </p>
 </div>
