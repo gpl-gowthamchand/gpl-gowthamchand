@@ -92,11 +92,11 @@ I love combining clean code with modern design to deliver functional and beautif
 
 ---
 
-## 🔝 Top Contributed Repo
+<!-- ## 🔝 Top Contributed Repo
 
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=gpl-gowthamchand&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
-</p>
+</p> -->
 
 ## 🐍 Contribution Snake
 
