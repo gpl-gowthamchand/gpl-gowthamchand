@@ -1,14 +1,6 @@
 <div align="center">
-  <h1 style="
-    font-size: 64px;
-    font-weight: 900;
-    letter-spacing: 12px;
-    color: #00FFE5;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    margin: 0;
-  ">
-    G O W T H A M
-  </h1>
+  <img src="assets/images/myName.png" alt="GOWTHAM" style="max-width: 100%; height: auto; margin-bottom: 20px;" />
+  
   <p style="margin-top: 10px;">
     <img src="https://img.shields.io/badge/Android%20Dev-%2376FF03?style=flat&logo=android&logoColor=black"/>
     <img src="https://img.shields.io/badge/Frontend%20Dev-%2361DAFB?style=flat&logo=react&logoColor=black"/>
