@@ -31,11 +31,11 @@ I love combining clean code with modern design to deliver functional and beautif
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/gplgowthamchand"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> &nbsp;
-  <a href="mailto:gpl.gowthamchand@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> &nbsp;
-  <a href="https://instagram.com/_.gowthammmmm"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> &nbsp;
-  <a href="https://discordapp.com/users/_.gowthammm"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a> &nbsp;
-  <a href="https://www.reddit.com/user/gowtham512/"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a> &nbsp;
+  <a href="https://linkedin.com/in/gplgowthamchand"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209"></a> &nbsp;
+  <a href="mailto:gpl.gowthamchand@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209"></a> &nbsp;
+  <a href="https://instagram.com/_.gowthammmmm"><img src="https://img.shields.io/badge/Instagram-d5d5d5?style=for-the-badge&logo=instagram&logoColor=0A0209"></a> &nbsp;
+  <a href="https://discordapp.com/users/_.gowthammm"><img src="https://img.shields.io/badge/Discord-d5d5d5?style=for-the-badge&logo=discord&logoColor=0A0209"></a> &nbsp;
+  <a href="https://www.reddit.com/user/gowtham512/"><img src="https://img.shields.io/badge/Reddit-d5d5d5?style=for-the-badge&logo=reddit&logoColor=0A0209"></a> &nbsp;
 </p>
 
 ---
