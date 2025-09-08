@@ -21,10 +21,10 @@
 I'm a passionate developer focused on building seamless mobile and web experiences.  
 I love combining clean code with modern design to deliver functional and beautiful apps.
 
-- 🚀 Currently building with **Kotlin**, **Jetpack Compose**, and **React**
-- 📚 Learning deeper concepts in **ML** and **modern Android architecture**
-- 🤝 Open to collaboration on **app dev**, **frontend systems**, and **automation tools**
-- 🧩 Fun fact: I use Google more efficiently than StackOverflow 😉
+- Currently building with **Kotlin**, **Jetpack Compose**, and **React**
+- Learning deeper concepts in **ML** and **modern Android architecture**
+- Open to collaboration on **app dev**, **frontend systems**, and **automation tools**
+- Fun fact: I use Google more efficiently than StackOverflow 😉
 
 ---
 
