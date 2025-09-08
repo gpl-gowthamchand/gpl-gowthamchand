@@ -16,7 +16,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I'm a passionate developer focused on building seamless mobile and web experiences.  
 I love combining clean code with modern design to deliver functional and beautiful apps.
@@ -28,7 +28,7 @@ I love combining clean code with modern design to deliver functional and beautif
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/gplgowthamchand"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209"></a> &nbsp;
@@ -40,7 +40,7 @@ I love combining clean code with modern design to deliver functional and beautif
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="center">
   <!-- Languages -->
@@ -67,19 +67,19 @@ I love combining clean code with modern design to deliver functional and beautif
 
 ---
 
-## 📈 GitHub Stats & 🏆 Trophies
+## GitHub Stats
 
 <table>
 <tr>
 <td width="50%" align="center">
 
-### 📊 GitHub Statistics
+<!--### 📊 GitHub Statistics -->
 <img src="https://github-readme-stats.vercel.app/api?username=gpl-gowthamchand&theme=tokyonight&hide_border=true&show_icons=true&count_private=true" />
 
 </td>
 <td width="50%" align="center">
 
-### 🔥 GitHub Streak
+<!-- ### 🔥 GitHub Streak -->
 <img src="https://github-readme-streak-stats.herokuapp.com?user=gpl-gowthamchand&theme=tokyonight&hide_border=true" />
 
 </td>
@@ -87,13 +87,13 @@ I love combining clean code with modern design to deliver functional and beautif
 <tr>
 <td width="50%" align="center">
 
-### 💻 Most Used Languages
+<!-- ### 💻 Most Used Languages -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gpl-gowthamchand&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 
 </td>
 <td width="50%" align="center">
 
-### 🏆 GitHub Trophies
+<!-- ### 🏆 GitHub Trophies -->
 <img src="https://github-profile-trophy.vercel.app/?username=gpl-gowthamchand&theme=onedark&no-frame=true&no-bg=true&title=Stars,Followers,Repositories,Commits,PullRequest,Issues&margin-w=5&row=2&column=3" />
 
 </td>
@@ -111,7 +111,7 @@ I love combining clean code with modern design to deliver functional and beautif
   <img src="https://github-contributor-stats.vercel.app/api?username=gpl-gowthamchand&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
 </p> -->
 
-## 🐍 Contribution Snake
+<!-- ## 🐍 Contribution Snake -->
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/gpl-gowthamchand/gpl-gowthamchand/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
