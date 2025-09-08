@@ -24,6 +24,11 @@ jobs:
           svg_text_color: "#f0f6fc"
           svg_rect_color: "#21262d"
           svg_line_color: "#30363d"
+          svg_rect_fill_color_0: "#161b22"
+          svg_rect_fill_color_1: "#0e4429"
+          svg_rect_fill_color_2: "#006d32"
+          svg_rect_fill_color_3: "#26a641"
+          svg_rect_fill_color_4: "#39d353"
           outputs: |
             dist/github-contribution-grid-snake-dark.svg
 
