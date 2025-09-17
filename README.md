@@ -1,19 +1,11 @@
 <div align="center">
-  <h1 style="
-    font-size: 64px;
-    font-weight: 900;
-    letter-spacing: 12px;
-    color: #00FFE5;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    margin: 0;
-  ">
-    G O W T H A M
-  </h1>
+  <img src="assets/images/myName.png" alt="GOWTHAM" style="max-width: 100%; height: auto; margin-bottom: 20px;" />
+  
   <p style="margin-top: 10px;">
-    <img src="https://img.shields.io/badge/Android%20Dev-%2376FF03?style=flat&logo=android&logoColor=black"/>
-    <img src="https://img.shields.io/badge/Frontend%20Dev-%2361DAFB?style=flat&logo=react&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Android%20Dev-%2376FF03?style=for-the-badge&logo=android&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Frontend%20Dev-%2361DAFB?style=for-the-badge&logo=react&logoColor=black"/>
     <a href="https://gowthamchand.vercel.app/" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-Live-%23000000?style=flat&logo=firefox&logoColor=%23FF7139"/>
+      <img src="https://img.shields.io/badge/Portfolio-Live-%23000000?style=for-the-badge&logo=firefox&logoColor=%23FF7139"/>
     </a>
   </p>
 </div>
@@ -24,31 +16,31 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I'm a passionate developer focused on building seamless mobile and web experiences.  
 I love combining clean code with modern design to deliver functional and beautiful apps.
 
-- 🚀 Currently building with **Kotlin**, **Jetpack Compose**, and **React**
-- 📚 Learning deeper concepts in **ML** and **modern Android architecture**
-- 🤝 Open to collaboration on **app dev**, **frontend systems**, and **automation tools**
-- 🧩 Fun fact: I use Google more efficiently than StackOverflow 😉
+- Currently building with **Kotlin**, **Jetpack Compose**, and **React**
+- Learning deeper concepts in **ML** and **modern Android architecture**
+- Open to collaboration on **app dev**, **frontend systems**, and **automation tools**
+- Fun fact: I use Google more efficiently than StackOverflow 😉
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/gplgowthamchand"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"></a> &nbsp;
-  <a href="mailto:gpl.gowthamchand@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"></a> &nbsp;
-  <a href="https://instagram.com/_.gowthammmmm"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white"></a> &nbsp;
-  <a href="https://discordapp.com/users/_.gowthammm"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white"></a> &nbsp;
-  <a href="https://www.reddit.com/user/gowtham512/"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=flat&logo=reddit&logoColor=white"></a> &nbsp;
+  <a href="https://linkedin.com/in/gplgowthamchand"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209"></a> &nbsp;
+  <a href="mailto:gpl.gowthamchand@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209"></a> &nbsp;
+  <a href="https://instagram.com/_.gowthammmmm"><img src="https://img.shields.io/badge/Instagram-d5d5d5?style=for-the-badge&logo=instagram&logoColor=0A0209"></a> &nbsp;
+  <a href="https://discordapp.com/users/_.gowthammm"><img src="https://img.shields.io/badge/Discord-d5d5d5?style=for-the-badge&logo=discord&logoColor=0A0209"></a> &nbsp;
+  <a href="https://www.reddit.com/user/gowtham512/"><img src="https://img.shields.io/badge/Reddit-d5d5d5?style=for-the-badge&logo=reddit&logoColor=0A0209"></a> &nbsp;
 </p>
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="center">
   <!-- Languages -->
@@ -56,12 +48,15 @@ I love combining clean code with modern design to deliver functional and beautif
   <img src="https://img.shields.io/badge/C-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54"/>
   <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
   <br/>
   <!-- Tools -->
   <img src="https://img.shields.io/badge/Jetpack%20Compose-%23007ACC.svg?style=for-the-badge&logo=jetpack-compose&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
@@ -72,41 +67,59 @@ I love combining clean code with modern design to deliver functional and beautif
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gpl-gowthamchand&theme=tokyonight&hide_border=true&show_icons=true&count_private=true" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=gpl-gowthamchand&theme=tokyonight&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gpl-gowthamchand&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<table>
+<tr>
+<td width="50%" align="center">
 
----
+<!--### 📊 GitHub Statistics -->
+<img src="https://github-readme-stats.vercel.app/api?username=gpl-gowthamchand&theme=tokyonight&hide_border=true&show_icons=true&count_private=true" />
 
-## 🏆 GitHub Trophies
+</td>
+<td width="50%" align="center">
+
+<!-- ### 🔥 GitHub Streak -->
+<img src="https://github-readme-streak-stats.herokuapp.com?user=gpl-gowthamchand&theme=tokyonight&hide_border=true" />
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+
+<!-- ### 💻 Most Used Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gpl-gowthamchand&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+
+</td>
+<td width="50%" align="center">
+
+<!-- ### 🏆 GitHub Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=gpl-gowthamchand&theme=onedark&no-frame=true&no-bg=true&title=Stars,Followers,Repositories,Commits,PullRequest,Issues&margin-w=5&row=2&column=3" />
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gpl-gowthamchand&theme=onedark&no-frame=true&no-bg=true&title=Stars,Followers,Repositories,Commits,PullRequest,Issues&margin-w=10&row=2&column=3" />
-</p>
-
-<br/>
-
 
 ---
 
-## 🔝 Top Contributed Repo
+<!-- ## 🔝 Top Contributed Repo
 
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=gpl-gowthamchand&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
-</p>
+</p> -->
 
-## 🐍 Contribution Snake
+<!-- ## 🐍 Contribution Snake -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gpl-gowthamchand/test_readme/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/gpl-gowthamchand/gpl-gowthamchand/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
+
+<!-- Alternative: Direct snake with dark theme -->
+<!-- <p align="center">
+  <img src="https://raw.githubusercontent.com/gpl-gowthamchand/gpl-gowthamchand/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p> -->
 
 
