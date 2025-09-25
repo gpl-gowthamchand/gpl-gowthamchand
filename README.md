@@ -34,7 +34,7 @@ I love combining clean code with modern design to deliver functional and beautif
   <a href="https://linkedin.com/in/gplgowthamchand"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209"></a> &nbsp;
   <a href="mailto:gpl.gowthamchand@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209"></a> &nbsp;
   <a href="https://instagram.com/_.gowthammmmm"><img src="https://img.shields.io/badge/Instagram-d5d5d5?style=for-the-badge&logo=instagram&logoColor=0A0209"></a> &nbsp;
-  <a href="https://discordapp.com/users/_.gowthammm"><img src="https://img.shields.io/badge/Discord-d5d5d5?style=for-the-badge&logo=discord&logoColor=0A0209"></a> &nbsp;
+  <a href="https://discord.gg/beBCqfcSEb"><img src="https://img.shields.io/badge/Discord-d5d5d5?style=for-the-badge&logo=discord&logoColor=0A0209"></a> &nbsp;
   <a href="https://www.reddit.com/user/gowtham512/"><img src="https://img.shields.io/badge/Reddit-d5d5d5?style=for-the-badge&logo=reddit&logoColor=0A0209"></a> &nbsp;
 </p>
 
