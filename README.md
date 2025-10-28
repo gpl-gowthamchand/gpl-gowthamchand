@@ -2,29 +2,26 @@
   <img src="assets/images/myName.png" alt="GOWTHAM" style="max-width: 100%; height: auto; margin-bottom: 20px;" />
   
   <p style="margin-top: 10px;">
-    <img src="https://img.shields.io/badge/Android%20Dev-%2376FF03?style=for-the-badge&logo=android&logoColor=black"/>
-    <img src="https://img.shields.io/badge/Frontend%20Dev-%2361DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Cybersecurity-2F3136?style=for-the-badge&logo=owasp&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Security%20Engineer-2F3136?style=for-the-badge&logo=shield&logoColor=white"/>
     <a href="https://gowthamchand.vercel.app/" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-Live-%23000000?style=for-the-badge&logo=firefox&logoColor=%23FF7139"/>
+      <img src="https://img.shields.io/badge/Portfolio-Live-2F3136?style=for-the-badge&logo=firefox&logoColor=%23FF7139"/>
     </a>
   </p>
 </div>
 
-
-
-<h3 align="center">Android & Frontend Developer | Turning Ideas into Interactive Products</h3>
+<h3 align="center">Aspiring Cybersecurity Engineer | Hands-on in Offensive & Defensive Security</h3>
 
 ---
 
 ## About Me
 
-I'm a passionate developer focused on building seamless mobile and web experiences.  
-I love combining clean code with modern design to deliver functional and beautiful apps.
+Focused on building practical security skills and real-world tooling experience.  
+I combine automation, hands-on labs, and defensive practices to secure systems.
 
-- Currently building with **Kotlin**, **Jetpack Compose**, and **React**
-- Learning deeper concepts in **ML** and **modern Android architecture**
-- Open to collaboration on **app dev**, **frontend systems**, and **automation tools**
-- Fun fact: I use Google more efficiently than StackOverflow 😉
+- Currently learning and practicing **Python**, **Bash**, **Linux**, and **network security**
+- Building skills in **penetration testing**, **incident response**, and **cloud security**
+- Open to collaborations on security tooling, audits, and capture-the-flag (CTF) challenges
 
 ---
 
@@ -40,29 +37,18 @@ I love combining clean code with modern design to deliver functional and beautif
 
 ---
 
-## Tech Stack
+## Tech & Tools
 
 <p align="center">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-  <br/>
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/Jetpack%20Compose-%23007ACC.svg?style=for-the-badge&logo=jetpack-compose&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-%232E8B57.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Networking-%23007ACC.svg?style=for-the-badge&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nmap-%23000000.svg?style=for-the-badge&logo=nmap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wireshark-%23007ACC.svg?style=for-the-badge&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Metasploit-%23EF4444.svg?style=for-the-badge&logo=metasploit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-%23266DD3.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-%230DB7ED.svg?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
 ---
@@ -71,30 +57,19 @@ I love combining clean code with modern design to deliver functional and beautif
 
 <table>
 <tr>
-<td width="50%" align="center">
+<td width="33%" align="center">
 
-<!--### 📊 GitHub Statistics -->
 <img src="https://github-readme-stats.vercel.app/api?username=gpl-gowthamchand&theme=tokyonight&hide_border=true&show_icons=true&count_private=true" />
 
 </td>
-<td width="50%" align="center">
+<td width="33%" align="center">
 
-<!-- ### 🔥 GitHub Streak -->
 <img src="https://github-readme-streak-stats.herokuapp.com?user=gpl-gowthamchand&theme=tokyonight&hide_border=true" />
 
 </td>
-</tr>
-<tr>
-<td width="50%" align="center">
+<td width="33%" align="center">
 
-<!-- ### 💻 Most Used Languages -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gpl-gowthamchand&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-
-</td>
-<td width="50%" align="center">
-
-<!-- ### 🏆 GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=gpl-gowthamchand&theme=onedark&no-frame=true&no-bg=true&title=Stars,Followers,Repositories,Commits,PullRequest,Issues&margin-w=5&row=2&column=3" />
 
 </td>
 </tr>
@@ -102,24 +77,8 @@ I love combining clean code with modern design to deliver functional and beautif
 
 <br/>
 
-
----
-
-<!-- ## 🔝 Top Contributed Repo
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=gpl-gowthamchand&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
-</p> -->
-
-<!-- ## 🐍 Contribution Snake -->
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/gpl-gowthamchand/gpl-gowthamchand/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
-
-<!-- Alternative: Direct snake with dark theme -->
-<!-- <p align="center">
-  <img src="https://raw.githubusercontent.com/gpl-gowthamchand/gpl-gowthamchand/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p> -->
 
 
