@@ -2,8 +2,8 @@
   <img src="assets/images/myName.png" alt="GOWTHAM" style="max-width: 100%; height: auto; margin-bottom: 20px;" />
   
   <p style="margin-top: 10px;">
-    <img src="https://img.shields.io/badge/Cybersecurity-2F3136?style=for-the-badge&logo=owasp&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Security%20Engineer-2F3136?style=for-the-badge&logo=shield&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Cybersecurity-4B5563?style=for-the-badge&logo=owasp&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Security%20Engineer-4B5563?style=for-the-badge&logo=shield&logoColor=white"/>
     <a href="https://gowthamchand.vercel.app/" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-Live-2F3136?style=for-the-badge&logo=firefox&logoColor=%23FF7139"/>
     </a>
